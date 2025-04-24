@@ -2,7 +2,7 @@
 
 ## Specifications
 
-```sh
+```console
             .-/+oossssoo+/-.               anshium@anshium-Nitro-AN515-58 
         `:+ssssssssssssssssss+:`           ------------------------------ 
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.2 LTS x86_64 
